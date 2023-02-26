@@ -1,0 +1,39 @@
+
+* {
+    margin: 0%;
+    padding: 0%;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(205, 205, 225);
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+    background-color: #ffffff;
+    max-width: 16rem;
+    margin: 50px;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    text-align: center;
+
+}
+
+img {
+    width: 100%;
+    border-radius: 0.5rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+}
+
+p{
+    padding: 10px;
+    color: #808080;
+}
